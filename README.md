@@ -1,5 +1,7 @@
 # :high_brightness:SundaySwift
 
+![Sunday Swift Backdrop](https://github.com/BuckyBoy6399/SundaySwift/blob/master/SundaySwift.jpg)
+
 ### :orange_book: Experimenting with Swift on Sundays
 
 This is an initiative taken to practice and enchance Swift skills, creating apps for Apple Platforms ie: iOS, watchOS and macOS.
