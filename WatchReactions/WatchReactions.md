@@ -1,4 +1,6 @@
-# Sunday Swift - Project One - WatchOS
+# Sunday Swift - Project One - WatchReactions
+
+![WatchRetentions](https://github.com/BuckyBoy6399/SundaySwift/blob/master/WatchReactions/watchreactions.gif)
 
 ### Soundboard App for WatchOS
 
