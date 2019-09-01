@@ -1,6 +1,6 @@
 # Sunday Swift - Project Two - Untangler
 
-![Untangler]()
+![Untangler](https://github.com/BuckyBoy6399/SundaySwift/blob/master/Untangler/untangler.gif)
 
 ### Untangler Game App for iOS
 
