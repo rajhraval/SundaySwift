@@ -4,7 +4,7 @@
 
 ### Soundboard App for WatchOS
 
-This is a basic WatchOS app lets you hear voice recordings, record your own voice and play it.
+This is a basic watchOS app lets you hear voice recordings, record your own voice and play it.
 
 Concepts I learnt about:
 
@@ -13,7 +13,7 @@ Concepts I learnt about:
 
 If you work on iOS, then this is how you can relate it:
 
-ie: on iOS it is -> on WatchOS it is
+ie: on iOS it is -> on watchOS it is
 
 - ViewController -> InterfaceController
 - UIKit -> WatchKit

@@ -14,7 +14,8 @@ Some of the Projects are inspired and based on HackingWithSwift's SwiftOnSunday 
 
 ### :page_facing_up:Projects
 
-- WatchOS Project - [WatchReactions](https://github.com/BuckyBoy6399/SundaySwift/blob/master/WatchReactions/WatchReactions.md) - Basic - (WatchKit, AVFoundation)
+- watchOS Project - [WatchReactions](https://github.com/BuckyBoy6399/SundaySwift/blob/master/WatchReactions/WatchReactions.md) - Basic - (WatchKit, AVFoundation)
 - iOS Project - [Untangler](https://github.com/BuckyBoy6399/SundaySwift/blob/master/Untangler/untangler.md) - Basic Intermediate - (UIKit, Core Graphics)
+- macOS Project - [TextTransformer]() - Basic - (Cocoa, macOS App Development)
 
 :sparkles: **Happy Coding with Swift!**
