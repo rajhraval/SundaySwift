@@ -1,6 +1,6 @@
 # Sunday Swift - Project Three - Text Transformer
 
-![TextTransformer]()
+![TextTransformer](https://github.com/rajhraval1/SundaySwift/blob/master/TextTransformer/texttransformer.gif)
 
 ### TextTransformer for learning macOS App Development
 
