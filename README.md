@@ -17,5 +17,6 @@ Some of the Projects are inspired and based on HackingWithSwift's SwiftOnSunday 
 - watchOS Project - [WatchReactions](https://github.com/BuckyBoy6399/SundaySwift/blob/master/WatchReactions/WatchReactions.md) - Basic - (WatchKit, AVFoundation)
 - iOS Project - [Untangler](https://github.com/BuckyBoy6399/SundaySwift/blob/master/Untangler/untangler.md) - Basic Intermediate - (UIKit, Core Graphics)
 - macOS Project - [TextTransformer](https://github.com/rajhraval1/SundaySwift/blob/master/TextTransformer/TextTransformer.md) - Basic - (Cocoa, macOS App Development)
+- Command Line App Project - [iMultiply]() - Basic - (XCTest, Unit Testing in Swift)
 
 :sparkles: **Happy Coding with Swift!**
