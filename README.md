@@ -18,5 +18,6 @@ Some of the Projects are inspired and based on HackingWithSwift's SwiftOnSunday 
 - iOS Project - [Untangler](https://github.com/BuckyBoy6399/SundaySwift/blob/master/Untangler/untangler.md) - Basic Intermediate - (UIKit, Core Graphics)
 - macOS Project - [TextTransformer](https://github.com/rajhraval1/SundaySwift/blob/master/TextTransformer/TextTransformer.md) - Basic - (Cocoa, macOS App Development)
 - Command Line App Project - [iMultiply](https://github.com/rajhraval1/SundaySwift/blob/master/iMultiply/iMultiply.md) - Basic - (XCTest, Unit Testing in Swift)
+- macOS Project - [Clocky]() - Basic - (AppKit, macOS App Development)
 
 :sparkles: **Happy Coding with Swift!**
