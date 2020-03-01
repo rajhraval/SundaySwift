@@ -1,6 +1,6 @@
 # Sunday Swift - Project Five - Clocky
 
-![Clocky]()
+![Clocky](https://github.com/rajhraval1/SundaySwift/blob/master/Clocky/Clocky.gif)
 
 ### Clocky for learning macOS App Development
 
