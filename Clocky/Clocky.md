@@ -19,6 +19,10 @@ Part 1 - Creating the Menu for the App and adding the Clock Timer
 
 Part 2 - Adding Reminders, so users can set reminders and get notified
 
+![Clocky - Menu](https://github.com/rajhraval1/SundaySwift/blob/master/Clocky/Clocky%20Menu.png)
+![Clocky - Notification](https://github.com/rajhraval1/SundaySwift/blob/master/Clocky/Clocky-Notification.png)
+![Clocky - Adding Reminders](https://github.com/rajhraval1/SundaySwift/blob/master/Clocky/Clocky-Add%20Reminder%20Screen.png)
+
 - Working with macOS storyboards
 - NSViewController
 - WindowController
