@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CF2ADEA3240B9A860015C0FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2ADEA2240B9A860015C0FE /* AppDelegate.swift */; };
-		CF2ADEA5240B9A860015C0FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2ADEA4240B9A860015C0FE /* ViewController.swift */; };
 		CF2ADEA7240B9A870015C0FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF2ADEA6240B9A870015C0FE /* Assets.xcassets */; };
 		CF2ADEAA240B9A870015C0FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF2ADEA8240B9A870015C0FE /* Main.storyboard */; };
 		CF2ADEB3240B9CED0015C0FE /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2ADEB2240B9CED0015C0FE /* Date+Extension.swift */; };
@@ -18,12 +17,14 @@
 		CF2ADEBB240BA4880015C0FE /* Bool+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2ADEBA240BA4880015C0FE /* Bool+Extension.swift */; };
 		CF2ADEBD240BA50A0015C0FE /* NSMenu+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2ADEBC240BA50A0015C0FE /* NSMenu+Extension.swift */; };
 		CF2ADEBF240BB2BF0015C0FE /* DockIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF2ADEBE240BB2BF0015C0FE /* DockIcon.swift */; };
+		CF3D905A241550C500C43BE6 /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3D9059241550C500C43BE6 /* Reminder.swift */; };
+		CF3D905C2415546C00C43BE6 /* NewReminderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3D905B2415546C00C43BE6 /* NewReminderViewController.swift */; };
+		CF3D905E2415614A00C43BE6 /* WindowsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3D905D2415614A00C43BE6 /* WindowsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CF2ADE9F240B9A860015C0FE /* Clocky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clocky.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF2ADEA2240B9A860015C0FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CF2ADEA4240B9A860015C0FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CF2ADEA6240B9A870015C0FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF2ADEA9240B9A870015C0FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CF2ADEAB240B9A870015C0FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -35,6 +36,9 @@
 		CF2ADEBA240BA4880015C0FE /* Bool+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bool+Extension.swift"; sourceTree = "<group>"; };
 		CF2ADEBC240BA50A0015C0FE /* NSMenu+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSMenu+Extension.swift"; sourceTree = "<group>"; };
 		CF2ADEBE240BB2BF0015C0FE /* DockIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DockIcon.swift; sourceTree = "<group>"; };
+		CF3D9059241550C500C43BE6 /* Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminder.swift; sourceTree = "<group>"; };
+		CF3D905B2415546C00C43BE6 /* NewReminderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewReminderViewController.swift; sourceTree = "<group>"; };
+		CF3D905D2415614A00C43BE6 /* WindowsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,14 +72,16 @@
 			isa = PBXGroup;
 			children = (
 				CF2ADEA2240B9A860015C0FE /* AppDelegate.swift */,
+				CF3D905B2415546C00C43BE6 /* NewReminderViewController.swift */,
+				CF3D905D2415614A00C43BE6 /* WindowsManager.swift */,
 				CF2ADEBE240BB2BF0015C0FE /* DockIcon.swift */,
 				CF2ADEB6240BA1990015C0FE /* Preferences.swift */,
 				CF2ADEB8240BA3510015C0FE /* UserDefaults.swift */,
 				CF2ADEBA240BA4880015C0FE /* Bool+Extension.swift */,
 				CF2ADEBC240BA50A0015C0FE /* NSMenu+Extension.swift */,
+				CF3D9059241550C500C43BE6 /* Reminder.swift */,
 				CF2ADEB2240B9CED0015C0FE /* Date+Extension.swift */,
 				CF2ADEB4240B9F890015C0FE /* Int+Extension.swift */,
-				CF2ADEA4240B9A860015C0FE /* ViewController.swift */,
 				CF2ADEA6240B9A870015C0FE /* Assets.xcassets */,
 				CF2ADEA8240B9A870015C0FE /* Main.storyboard */,
 				CF2ADEAB240B9A870015C0FE /* Info.plist */,
@@ -154,15 +160,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF2ADEA5240B9A860015C0FE /* ViewController.swift in Sources */,
 				CF2ADEB5240B9F890015C0FE /* Int+Extension.swift in Sources */,
 				CF2ADEBB240BA4880015C0FE /* Bool+Extension.swift in Sources */,
 				CF2ADEB9240BA3510015C0FE /* UserDefaults.swift in Sources */,
 				CF2ADEB7240BA1990015C0FE /* Preferences.swift in Sources */,
 				CF2ADEA3240B9A860015C0FE /* AppDelegate.swift in Sources */,
 				CF2ADEB3240B9CED0015C0FE /* Date+Extension.swift in Sources */,
+				CF3D905E2415614A00C43BE6 /* WindowsManager.swift in Sources */,
 				CF2ADEBD240BA50A0015C0FE /* NSMenu+Extension.swift in Sources */,
 				CF2ADEBF240BB2BF0015C0FE /* DockIcon.swift in Sources */,
+				CF3D905C2415546C00C43BE6 /* NewReminderViewController.swift in Sources */,
+				CF3D905A241550C500C43BE6 /* Reminder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

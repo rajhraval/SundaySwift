@@ -8,9 +8,18 @@ It is a simple status bar application that shows time, handling preferences like
 
 Concepts I learnt about:
 
+Part 1 - Creating the Menu for the App and adding the Clock Timer
+
 - Working broadly on Extensions
 - macOS Basics
 - Working on the AppDelegate
 - NSMenuItems
 - NSStatusBar
 - NSStatusItem
+
+Part 2 - Adding Reminders, so users can set reminders and get notified
+
+- Working with macOS storyboards
+- NSViewController
+- WindowController
+- Delegation
